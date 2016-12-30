@@ -1,0 +1,1 @@
+g++ -std=c++11 -o2 cimg_converter.cpp -L/usr/X11R6/lib -lm -lpthread -lX11 -o imgconvert
